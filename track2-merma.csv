@@ -1,0 +1,101 @@
+Fecha,Tienda,Turno,Gerente_Turno,Hora,Tipo_Transaccion,Categoria,SKU,Descripcion,Cantidad,Monto_MXN,Nota_Incidente
+2024-11-04,MTY-01,Matutino,R. Salinas,08:15,Venta,Abarrotes,ABR-002,Arroz 5kg,3,285.00,
+2024-11-04,MTY-02,Matutino,P. Elizondo,09:30,Venta,Farmacia,FAR-001,Paracetamol 500mg,5,175.00,
+2024-11-04,MTY-03,Vespertino,L. Garza,16:45,Venta,Belleza,BEL-001,Crema Facial Premium,2,890.00,
+2024-11-04,MTY-03,Vespertino,L. Garza,17:20,Anulacion,Farmacia,FAR-002,Omeprazol 20mg,3,261.00,Anulacion autorizada por gerente de turno
+2024-11-04,MTY-04,Matutino,C. Martinez,10:00,Venta,Hogar,HOG-001,Detergente Liquido 3L,2,198.00,
+2024-11-04,MTY-05,Vespertino,R. Montemayor,15:30,Venta,Electronica,ELE-001,Audifonos Bluetooth,1,459.00,
+2024-11-04,MTY-01,Nocturno,A. Leal,22:30,Venta,Farmacia,FAR-005,Vitamina C 1g,2,138.00,
+2024-11-05,MTY-01,Matutino,R. Salinas,07:00,Recibo_Mercancia,Farmacia,FAR-003,Loratadina 10mg,200,8400.00,
+2024-11-05,MTY-01,Matutino,R. Salinas,07:45,Ajuste_Inventario,Farmacia,FAR-003,Loratadina 10mg,-15,-630.00,Diferencia entre remision y conteo fisico
+2024-11-05,MTY-03,Matutino,S. Rodriguez,07:30,Recibo_Mercancia,Belleza,BEL-002,Serum Antiedad,150,22500.00,
+2024-11-05,MTY-03,Matutino,S. Rodriguez,08:00,Ajuste_Inventario,Belleza,BEL-002,Serum Antiedad,-12,-1800.00,Cajas llegaron abiertas y con faltante
+2024-11-05,MTY-02,Matutino,P. Elizondo,09:00,Venta,Abarrotes,ABR-003,Leche Entera 1L,10,270.00,
+2024-11-05,MTY-03,Vespertino,L. Garza,18:30,Devolucion_Sin_Ticket,Belleza,BEL-004,Perfume CK 100ml,1,1250.00,Cliente sin ticket y gerente autorizo devolucion
+2024-11-05,MTY-04,Vespertino,H. Guzman,16:00,Venta,Farmacia,FAR-004,Ibuprofeno 400mg,4,156.00,
+2024-11-05,MTY-04,Matutino,C. Martinez,09:30,Venta,Belleza,BEL-006,Protector Solar SPF50,2,280.00,
+2024-11-06,MTY-01,Matutino,R. Salinas,08:45,Venta,Belleza,BEL-003,Shampoo Kerastase,2,780.00,
+2024-11-06,MTY-02,Vespertino,J. Cantu,15:00,Venta,Hogar,HOG-002,Toallas Papel 12pk,5,375.00,
+2024-11-06,MTY-02,Matutino,P. Elizondo,08:00,Recibo_Mercancia,Belleza,BEL-005,Kit Maquillaje MAC,60,47400.00,
+2024-11-06,MTY-03,Vespertino,L. Garza,19:00,Anulacion,Belleza,BEL-005,Kit Maquillaje MAC,2,1580.00,Anulacion despues de cierre de caja
+2024-11-06,MTY-03,Vespertino,L. Garza,19:30,Anulacion,Farmacia,FAR-005,Vitamina C 1g,6,414.00,Error de escaneo segun gerente
+2024-11-06,MTY-05,Matutino,P. Elizondo,10:30,Venta,Abarrotes,ABR-004,Cereal Integral 500g,3,195.00,
+2024-11-06,MTY-04,Nocturno,A. Leal,23:00,Venta,Abarrotes,ABR-001,Aceite Vegetal 1L,2,118.00,
+2024-11-06,MTY-05,Nocturno,F. Villarreal,23:30,Venta,Abarrotes,ABR-003,Leche Entera 1L,6,162.00,
+2024-11-07,MTY-01,Matutino,R. Salinas,06:30,Recibo_Mercancia,Belleza,BEL-006,Protector Solar SPF50,180,25200.00,
+2024-11-07,MTY-01,Matutino,R. Salinas,07:15,Ajuste_Inventario,Belleza,BEL-006,Protector Solar SPF50,-18,-2520.00,Faltante de proveedor no documentado en remision
+2024-11-07,MTY-03,Matutino,S. Rodriguez,07:00,Recibo_Mercancia,Farmacia,FAR-001,Paracetamol 500mg,250,8750.00,
+2024-11-07,MTY-03,Matutino,S. Rodriguez,07:30,Ajuste_Inventario,Farmacia,FAR-001,Paracetamol 500mg,-20,-700.00,Conteo fisico menor a lo indicado en remision
+2024-11-07,MTY-02,Matutino,P. Elizondo,08:00,Recibo_Mercancia,Abarrotes,ABR-005,Cafe Molido 250g,100,4500.00,
+2024-11-07,MTY-03,Vespertino,L. Garza,17:00,Devolucion_Sin_Ticket,Farmacia,FAR-002,Omeprazol 20mg,4,348.00,Devolucion sin ticket autorizada por gerente
+2024-11-07,MTY-05,Vespertino,R. Montemayor,16:00,Venta,Belleza,BEL-001,Crema Facial Premium,1,445.00,
+2024-11-07,MTY-04,Vespertino,H. Guzman,16:30,Venta,Electronica,ELE-002,Cable USB-C,2,178.00,
+2024-11-08,MTY-01,Vespertino,M. Trevino,14:30,Venta,Farmacia,FAR-004,Ibuprofeno 400mg,2,78.00,
+2024-11-08,MTY-03,Vespertino,L. Garza,18:00,Anulacion,Belleza,BEL-002,Serum Antiedad,3,450.00,Producto sin empaque original segun gerente
+2024-11-08,MTY-03,Vespertino,L. Garza,19:15,Devolucion_Sin_Ticket,Belleza,BEL-003,Shampoo Kerastase,2,780.00,Cliente sin ticket y producto abierto
+2024-11-08,MTY-03,Vespertino,L. Garza,20:00,Anulacion,Farmacia,FAR-003,Loratadina 10mg,5,345.00,Anulacion post-cierre autorizada por gerente
+2024-11-08,MTY-02,Nocturno,F. Villarreal,22:30,Venta,Abarrotes,ABR-002,Arroz 5kg,2,190.00,
+2024-11-08,MTY-04,Matutino,C. Martinez,09:00,Venta,Electronica,ELE-002,Cable USB-C,3,267.00,
+2024-11-08,MTY-05,Matutino,P. Elizondo,11:00,Venta,Hogar,HOG-003,Jabon Trastes 750ml,4,196.00,
+2024-11-08,MTY-05,Vespertino,R. Montemayor,17:00,Venta,Farmacia,FAR-002,Omeprazol 20mg,2,174.00,
+2024-11-09,MTY-01,Matutino,R. Salinas,09:00,Venta,Abarrotes,ABR-003,Leche Entera 1L,15,405.00,
+2024-11-09,MTY-02,Vespertino,J. Cantu,15:30,Venta,Belleza,BEL-004,Perfume CK 100ml,1,1250.00,
+2024-11-09,MTY-02,Matutino,P. Elizondo,10:00,Venta,Belleza,BEL-002,Serum Antiedad,1,150.00,
+2024-11-09,MTY-03,Vespertino,L. Garza,16:00,Devolucion_Sin_Ticket,Belleza,BEL-005,Kit Maquillaje MAC,1,790.00,Devolucion sin ticket y sin empaque
+2024-11-09,MTY-03,Vespertino,L. Garza,17:30,Anulacion,Farmacia,FAR-005,Vitamina C 1g,8,552.00,Gerente autorizo anulacion en lote
+2024-11-09,MTY-03,Vespertino,L. Garza,18:45,Devolucion_Sin_Ticket,Farmacia,FAR-004,Ibuprofeno 400mg,6,234.00,Producto supuestamente defectuoso sin recibo
+2024-11-09,MTY-04,Matutino,C. Martinez,10:00,Venta,Farmacia,FAR-001,Paracetamol 500mg,3,105.00,
+2024-11-09,MTY-05,Vespertino,R. Montemayor,14:30,Devolucion_Sin_Ticket,Abarrotes,ABR-001,Aceite Vegetal 1L,1,59.00,Cliente presento ticket ilegible
+2024-11-09,MTY-01,Nocturno,A. Leal,23:30,Venta,Hogar,HOG-001,Detergente Liquido 3L,1,99.00,
+2024-11-10,MTY-02,Matutino,P. Elizondo,08:00,Venta,Farmacia,FAR-002,Omeprazol 20mg,2,174.00,
+2024-11-10,MTY-03,Vespertino,L. Garza,15:30,Anulacion,Belleza,BEL-001,Crema Facial Premium,2,890.00,Anulacion por supuesto error de precio
+2024-11-10,MTY-03,Matutino,S. Rodriguez,08:30,Venta,Farmacia,FAR-003,Loratadina 10mg,3,126.00,
+2024-11-10,MTY-04,Matutino,C. Martinez,09:30,Venta,Abarrotes,ABR-005,Cafe Molido 250g,2,90.00,
+2024-11-10,MTY-01,Vespertino,M. Trevino,16:00,Venta,Electronica,ELE-003,Bocina Portatil,1,799.00,
+2024-11-10,MTY-01,Matutino,R. Salinas,09:00,Recibo_Mercancia,Abarrotes,ABR-001,Aceite Vegetal 1L,500,29500.00,
+2024-11-10,MTY-05,Nocturno,F. Villarreal,22:00,Venta,Abarrotes,ABR-004,Cereal Integral 500g,2,130.00,
+2024-11-11,MTY-01,Matutino,R. Salinas,08:00,Venta,Belleza,BEL-006,Protector Solar SPF50,3,420.00,
+2024-11-11,MTY-02,Vespertino,J. Cantu,14:30,Anulacion,Abarrotes,ABR-002,Arroz 5kg,1,95.00,Error de escaneo corregido
+2024-11-11,MTY-03,Vespertino,L. Garza,17:00,Devolucion_Sin_Ticket,Belleza,BEL-002,Serum Antiedad,2,300.00,Cliente alego producto defectuoso sin recibo
+2024-11-11,MTY-03,Vespertino,L. Garza,18:00,Anulacion,Farmacia,FAR-001,Paracetamol 500mg,10,350.00,Anulacion en volumen autorizada por gerente
+2024-11-11,MTY-04,Matutino,C. Martinez,10:30,Venta,Hogar,HOG-002,Toallas Papel 12pk,3,225.00,
+2024-11-11,MTY-05,Matutino,P. Elizondo,09:00,Venta,Farmacia,FAR-003,Loratadina 10mg,4,168.00,
+2024-11-11,MTY-04,Nocturno,A. Leal,23:00,Venta,Belleza,BEL-003,Shampoo Kerastase,1,390.00,
+2024-11-12,MTY-01,Matutino,R. Salinas,06:45,Recibo_Mercancia,Farmacia,FAR-005,Vitamina C 1g,300,20700.00,
+2024-11-12,MTY-01,Matutino,R. Salinas,07:30,Ajuste_Inventario,Farmacia,FAR-005,Vitamina C 1g,-22,-1518.00,Diferencia en conteo de recibo vs sistema
+2024-11-12,MTY-03,Matutino,S. Rodriguez,07:00,Recibo_Mercancia,Belleza,BEL-004,Perfume CK 100ml,80,100000.00,
+2024-11-12,MTY-03,Matutino,S. Rodriguez,07:45,Ajuste_Inventario,Belleza,BEL-004,Perfume CK 100ml,-8,-10000.00,Faltante detectado durante conteo de recepcion
+2024-11-12,MTY-02,Matutino,P. Elizondo,08:30,Venta,Belleza,BEL-003,Shampoo Kerastase,1,390.00,
+2024-11-12,MTY-03,Vespertino,L. Garza,16:30,Anulacion,Belleza,BEL-006,Protector Solar SPF50,4,560.00,Anulacion masiva por supuesto defecto de lote
+2024-11-12,MTY-03,Vespertino,L. Garza,19:00,Devolucion_Sin_Ticket,Farmacia,FAR-003,Loratadina 10mg,5,210.00,Devolucion sin comprobante de compra
+2024-11-12,MTY-04,Vespertino,H. Guzman,15:00,Venta,Abarrotes,ABR-001,Aceite Vegetal 1L,4,236.00,
+2024-11-12,MTY-05,Nocturno,F. Villarreal,23:00,Venta,Electronica,ELE-001,Audifonos Bluetooth,1,459.00,
+2024-11-13,MTY-01,Vespertino,M. Trevino,15:00,Venta,Farmacia,FAR-002,Omeprazol 20mg,3,261.00,
+2024-11-13,MTY-02,Matutino,P. Elizondo,09:00,Venta,Hogar,HOG-003,Jabon Trastes 750ml,6,294.00,
+2024-11-13,MTY-03,Vespertino,L. Garza,17:30,Anulacion,Belleza,BEL-001,Crema Facial Premium,3,1335.00,Anulacion por cliente que cambio de opinion sin producto en caja
+2024-11-13,MTY-03,Vespertino,L. Garza,18:15,Devolucion_Sin_Ticket,Farmacia,FAR-004,Ibuprofeno 400mg,8,312.00,Gerente proceso devolucion sin ticket
+2024-11-13,MTY-04,Nocturno,A. Leal,22:30,Venta,Abarrotes,ABR-003,Leche Entera 1L,8,216.00,
+2024-11-13,MTY-05,Vespertino,R. Montemayor,16:30,Venta,Belleza,BEL-005,Kit Maquillaje MAC,1,790.00,
+2024-11-13,MTY-04,Matutino,C. Martinez,08:00,Recibo_Mercancia,Hogar,HOG-002,Toallas Papel 12pk,200,15000.00,
+2024-11-13,MTY-02,Vespertino,J. Cantu,17:00,Devolucion_Sin_Ticket,Electronica,ELE-001,Audifonos Bluetooth,1,459.00,Cliente presento garantia vencida
+2024-11-14,MTY-01,Matutino,R. Salinas,06:30,Recibo_Mercancia,Belleza,BEL-001,Crema Facial Premium,120,53400.00,
+2024-11-14,MTY-01,Matutino,R. Salinas,07:00,Ajuste_Inventario,Belleza,BEL-001,Crema Facial Premium,-10,-4450.00,Producto faltante en recepcion de proveedor
+2024-11-14,MTY-03,Matutino,S. Rodriguez,06:45,Recibo_Mercancia,Farmacia,FAR-004,Ibuprofeno 400mg,400,15600.00,
+2024-11-14,MTY-03,Matutino,S. Rodriguez,07:15,Ajuste_Inventario,Farmacia,FAR-004,Ibuprofeno 400mg,-25,-975.00,Conteo fisico no coincide con remision del proveedor
+2024-11-14,MTY-02,Matutino,P. Elizondo,07:30,Recibo_Mercancia,Farmacia,FAR-002,Omeprazol 20mg,200,17400.00,
+2024-11-14,MTY-02,Matutino,P. Elizondo,08:00,Ajuste_Inventario,Farmacia,FAR-002,Omeprazol 20mg,-5,-435.00,Leve diferencia en conteo
+2024-11-14,MTY-03,Vespertino,L. Garza,16:00,Devolucion_Sin_Ticket,Belleza,BEL-003,Shampoo Kerastase,3,1170.00,Cliente sin recibo y producto usado
+2024-11-14,MTY-03,Vespertino,L. Garza,17:45,Anulacion,Farmacia,FAR-005,Vitamina C 1g,7,483.00,Gerente autorizo anulacion fuera de protocolo
+2024-11-14,MTY-04,Vespertino,H. Guzman,15:30,Venta,Belleza,BEL-002,Serum Antiedad,1,150.00,
+2024-11-14,MTY-05,Matutino,P. Elizondo,10:00,Venta,Abarrotes,ABR-002,Arroz 5kg,3,285.00,
+2024-11-14,MTY-05,Matutino,P. Elizondo,08:30,Recibo_Mercancia,Abarrotes,ABR-003,Leche Entera 1L,800,21600.00,
+2024-11-15,MTY-01,Matutino,R. Salinas,08:30,Venta,Abarrotes,ABR-005,Cafe Molido 250g,2,90.00,
+2024-11-15,MTY-02,Vespertino,J. Cantu,14:00,Venta,Farmacia,FAR-001,Paracetamol 500mg,3,105.00,
+2024-11-15,MTY-01,Vespertino,M. Trevino,16:00,Anulacion,Hogar,HOG-001,Detergente Liquido 3L,1,99.00,Cliente cambio de opinion
+2024-11-15,MTY-03,Vespertino,L. Garza,18:30,Anulacion,Belleza,BEL-004,Perfume CK 100ml,2,2500.00,Anulacion de alto valor autorizada por gerente de turno
+2024-11-15,MTY-03,Vespertino,L. Garza,19:30,Devolucion_Sin_Ticket,Farmacia,FAR-001,Paracetamol 500mg,12,420.00,Devolucion masiva sin comprobante
+2024-11-15,MTY-04,Matutino,C. Martinez,09:00,Venta,Electronica,ELE-003,Bocina Portatil,1,799.00,
+2024-11-15,MTY-05,Vespertino,R. Montemayor,15:00,Venta,Hogar,HOG-001,Detergente Liquido 3L,2,198.00,
+2024-11-15,MTY-01,Nocturno,A. Leal,23:00,Venta,Farmacia,FAR-003,Loratadina 10mg,2,84.00,
+2024-11-15,MTY-02,Nocturno,F. Villarreal,22:00,Venta,Hogar,HOG-002,Toallas Papel 12pk,2,150.00,
+2024-11-15,MTY-03,Matutino,S. Rodriguez,09:00,Venta,Belleza,BEL-006,Protector Solar SPF50,4,560.00,

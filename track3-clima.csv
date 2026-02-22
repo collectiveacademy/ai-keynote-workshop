@@ -1,0 +1,116 @@
+ID,Region,Formato,Antiguedad_Anos,Area,Score_eNPS,Fecha_Respuesta,Respuesta_Abierta
+1,Norte,Supercenter,3,Operaciones,2,2024-10-21,Salimos hasta las 11pm y al dia siguiente entramos a las 6am. No hay tiempo para descansar. Esto no puede seguir asi.
+2,Norte,Supercenter,1,Caja,4,2024-10-21,Me gustaria que hubiera mas personal en caja los fines de semana. Los clientes se enojan con nosotros pero el problema es la falta de gente.
+3,Norte,Supercenter,7,Operaciones,1,2024-10-21,Llevo 7 anos aqui y nunca habia visto tanta rotacion. En tres meses se fueron 12 compañeros de mi area. Nadie pregunta por que.
+4,Norte,Supercenter,2,Logistica,3,2024-10-21,El sistema de escaneo falla constantemente y nos hacen responsables de los tiempos aunque la falla es tecnica. Eso es muy injusto.
+5,Norte,Express,1,Caja,6,2024-10-21,El ambiente con mis compañeros es bueno. Lo que mejoraría es tener uniforme en mejor estado y lockers seguros.
+6,Norte,Supercenter,4,Admin,7,2024-10-21,Me gusta trabajar aqui. Sugeriria mejorar el comedor porque la comida ya no es tan variada como antes.
+7,Norte,Supercenter,5,Operaciones,1,2024-10-21,Mi supervisor grita frente a todos cuando algo sale mal. Eso desmotiva al equipo completo. He reportado la situacion pero no pasa nada.
+8,Norte,Supercenter,2,Logistica,2,2024-10-21,Trabajamos horas extra sin que se reflejen en el sueldo. Cuando reclamas te dicen que lo compensan con tiempo libre pero nunca llega.
+9,Norte,Bodega,8,Operaciones,5,2024-10-22,Los procesos de recepcion de mercancia son muy lentos por falta de equipo actualizado. Perdemos mucho tiempo esperando que liberen las rampas.
+10,Norte,Supercenter,3,Caja,3,2024-10-22,Me siento agotada. No es solo el trabajo fisico, es que no vemos reconocimiento de ningun tipo. Ni un gracias del supervisor.
+11,Norte,Supercenter,6,Operaciones,2,2024-10-22,Ya no tengo energia para nada cuando llego a casa. Mis hijos me preguntan si estoy enferma. Creo que en algun momento voy a tener que renunciar.
+12,Norte,Express,2,Admin,8,2024-10-22,Buen lugar para aprender. El equipo de RRHH local es muy bueno y se preocupa por nosotros.
+13,Norte,Supercenter,1,Logistica,4,2024-10-22,La induccion fue muy corta. Me tiraron a trabajar sin saber bien los procesos y eso genera errores que luego nos descuentan.
+14,Norte,Supercenter,9,Operaciones,1,2024-10-22,Pedi vacaciones con dos meses de anticipacion y me las negaron tres veces. Con la antiguedad que tengo, eso no esta bien.
+15,Norte,Supercenter,3,Caja,3,2024-10-22,Los clientes a veces son muy agresivos y no tenemos protocolo claro de como manejarlo. Quedamos solos.
+16,Norte,Bodega,4,Logistica,5,2024-10-23,Me gustaria capacitacion en manejo de montacargas para poder crecer. Llevo cuatro anos en el mismo puesto.
+17,Norte,Supercenter,2,Operaciones,2,2024-10-23,Mi supervisor favorece a ciertos compañeros a la hora de asignar turnos. No hay equidad.
+18,Norte,Supercenter,5,Admin,9,2024-10-23,Excelente ambiente de trabajo. Las nuevas herramientas de reporte ahorran mucho tiempo. Muy contento aqui.
+19,Norte,Supercenter,1,Caja,4,2024-10-23,Piden mucha flexibilidad de horario pero al momento de pedir un cambio por emergencia familiar no hay apoyo.
+20,Norte,Express,3,Operaciones,3,2024-10-23,Las metas de venta suben cada mes pero el equipo no crece. En algun punto algo se va a romper.
+21,Norte,Supercenter,6,Logistica,2,2024-10-23,Me dijeron que tendria oportunidad de ascenso y ya van tres anos esperando. Mis compañeros nuevos ya tienen puestos de lider y yo no.
+22,Norte,Supercenter,2,Caja,5,2024-10-23,Mejorar la rotacion de turnos para que sea mas justa. Siempre los mismos quedan en turno nocturno.
+23,Norte,Bodega,10,Operaciones,1,2024-10-24,Tengo dolor de espalda cronico por las cargas y cuando fui a medico de empresa me dijeron que no era laboral. No me creo eso.
+24,Norte,Supercenter,1,Admin,7,2024-10-24,Buen onboarding. Me gustaria mas capacitacion en el sistema SAP porque aun me cuesta trabajo.
+25,Norte,Supercenter,4,Operaciones,2,2024-10-24,Llevamos tres semanas con aire acondicionado roto en el area de electronicos. Con el calor que hace en Monterrey eso es un problema serio de salud.
+26,Norte,Supercenter,3,Logistica,3,2024-10-24,Las metas de productividad son imposibles de cumplir con el personal que tenemos. Luego nos evaluan negativamente pero la causa raiz es otra.
+27,Norte,Express,5,Caja,6,2024-10-24,Me gusta la empresa pero quisiera que hubiera plan de carrera mas claro y visible para todos.
+28,Norte,Supercenter,7,Operaciones,1,2024-10-24,Me siento completamente quemado. Ya no disfruto venir a trabajar y eso me da tristeza porque antes me gustaba. Algo cambio el ano pasado.
+29,Norte,Supercenter,2,Admin,8,2024-10-24,El nuevo gerente de tienda es muy bueno comunicando los objetivos. Se nota la diferencia con el anterior.
+30,Norte,Bodega,3,Logistica,4,2024-10-25,Falta comunicacion entre turnos. Cuando entro al turno de la manana nadie me dice que paso en la noche y luego hay problemas.
+31,Norte,Supercenter,5,Operaciones,2,2024-10-25,Hemos pedido guantes de proteccion nuevos desde hace dos meses. Seguimos usando los mismos rotos. Si alguien se lastima, ¿de quien es la responsabilidad?
+32,Norte,Supercenter,1,Caja,5,2024-10-25,Mejorar la app de consulta de horarios porque a veces no carga y no sabes si tienes cambio de turno.
+33,Norte,Supercenter,8,Operaciones,1,2024-10-25,Mi hijo me pregunto si voy a renunciar. Le dije que no sé. Nunca pense decir eso de Walmart.
+34,Norte,Express,2,Admin,6,2024-10-25,El proceso de solicitud de permisos es muy lento y burocrático. Tres firmas para un dia de descanso no tiene sentido.
+35,Norte,Supercenter,4,Logistica,3,2024-10-25,Los camiones de proveedor llegan fuera de horario y nosotros tenemos que quedarnos sin pago de horas extra. Eso pasa cada semana.
+36,Norte,Supercenter,6,Operaciones,2,2024-10-25,El supervisor de mi turno no sabe manejar conflictos. Cuando hay un problema entre compañeros lo ignora y el ambiente se pone muy tenso.
+37,Norte,Bodega,1,Logistica,4,2024-10-28,El trabajo es fisico y entiendo eso. Lo que no entiendo es por que no hay agua fria disponible en el area de carga. Es basico.
+38,Norte,Supercenter,3,Caja,7,2024-10-28,Me siento valorada por mi equipo inmediato. Solo cambiaria el horario del break, que es muy corto para comer bien.
+39,Norte,Supercenter,9,Operaciones,1,2024-10-28,Tengo 9 años aqui. Este es el peor momento que he vivido en la empresa. La presion es insostenible y nadie escucha.
+40,Norte,Supercenter,2,Admin,5,2024-10-28,Me gustaria que los resultados de estas encuestas se compartieran con los equipos. Nunca sabemos si alguien las lee.
+41,Norte,Express,4,Operaciones,3,2024-10-28,Cuando hay incidentes de seguridad, los reportes se pierden. No hay seguimiento visible y eso genera desconfianza.
+42,Norte,Supercenter,5,Caja,2,2024-10-28,Me dijeron que el bono de productividad era fijo y ahora lo cambiaron sin explicacion. Eso genera mucha desconfianza en la empresa.
+43,Norte,Supercenter,3,Logistica,4,2024-10-28,Me gustaria capacitacion para poder moverme a otra area. Quiero crecer pero no sé como hacerlo dentro de la empresa.
+44,Norte,Bodega,6,Operaciones,2,2024-10-29,Tres líderes de turno se fueron en dos meses. Nadie nos explica por que. Los rumores son peores que la verdad.
+45,Norte,Supercenter,1,Caja,6,2024-10-29,Buen lugar para empezar. El equipo es unido. Me gustaria que el uniforme tuviera tallas mas variadas.
+46,Norte,Supercenter,7,Operaciones,1,2024-10-29,Ya busque trabajo en otro lado. Solo espero la respuesta. No quiero irme pero tampoco veo mejora aqui.
+47,Norte,Supercenter,2,Admin,8,2024-10-29,Los nuevos procesos de reporte son mas eficientes. Contenta con los cambios del ultimo trimestre.
+48,Norte,Express,3,Logistica,3,2024-10-29,La comunicacion de gerencia hacia los asociados es muy escasa. Nos enteramos de los cambios por rumores, no por canales oficiales.
+49,Norte,Supercenter,4,Operaciones,2,2024-10-29,Trabajé turno doble cuatro veces este mes porque no habia quien cubriera. Me lo pidieron como favor pero no fue voluntario.
+50,Norte,Supercenter,8,Caja,5,2024-10-29,El nuevo sistema de pago es mas rapido para los clientes. Lo que falta es mas personal los domingos.
+51,Norte,Supercenter,2,Logistica,3,2024-10-30,La carga de trabajo subio mucho desde que redujeron personal en el area. Hacemos el trabajo de tres personas con dos.
+52,Norte,Bodega,5,Operaciones,4,2024-10-30,El entrenamiento de seguridad es bueno. Falta que se aplique de verdad en el dia a dia y no solo para auditoria.
+53,Norte,Supercenter,1,Caja,5,2024-10-30,Me gustaria tener acceso al portal de RRHH desde mi telefono. El sistema actual solo funciona en PC y eso es inconveniente.
+54,Norte,Supercenter,6,Admin,9,2024-10-30,Muy satisfecho. El gerente de zona nos visita regularmente y eso se siente. Hay presencia real de liderazgo.
+55,Norte,Supercenter,3,Operaciones,2,2024-10-30,Nos quitan puntos de asistencia si llegamos tarde por el trafico pero la ruta de camion de la empresa siempre llega tarde. Eso no es justo.
+56,Norte,Express,4,Logistica,3,2024-10-30,Me gustaria saber con mas tiempo los horarios de la siguiente semana. A veces los publican el viernes para el lunes.
+57,Norte,Supercenter,7,Operaciones,1,2024-10-30,Ya no me importa si me despiden. Ese es el nivel de agotamiento en el que estoy. Ojala alguien lea esto.
+58,Norte,Supercenter,2,Caja,4,2024-10-31,Los clientes reportan problemas con los precios y los asociados quedamos en medio sin poder resolverlo. Necesitamos mas acceso al sistema.
+59,Norte,Bodega,9,Logistica,2,2024-10-31,Llevo 9 anos aqui y no he tenido un aumento real en tres. El costo de vida sube pero mi sueldo no. Eso es lo que me tiene pensando en irme.
+60,Norte,Supercenter,1,Admin,7,2024-10-31,Buen equipo de trabajo. Me gustaria que el programa de becas educativas fuera mas visible porque no sabia que existia.
+61,Norte,Supercenter,4,Operaciones,2,2024-10-31,Mi supervisor dice que el burn out no existe y que es falta de actitud. Con esa mentalidad es imposible hablar de los problemas reales.
+62,Norte,Supercenter,3,Caja,4,2024-10-31,La tienda esta mal iluminada en varias areas y ya lo reportamos varias veces. Es un tema de seguridad.
+63,Norte,Express,5,Operaciones,3,2024-10-31,Las metas de NPS de tienda bajan pero la presion de venta sube. Son objetivos que se contradicen.
+64,Norte,Supercenter,6,Logistica,2,2024-10-31,Me siento ignorado. Mando correos al area de RRHH y no recibo respuesta. Esto ya es normal aqui.
+65,Norte,Supercenter,2,Caja,6,2024-11-01,El programa de empleado del mes motiva pero podria tener un beneficio economico real, no solo un diploma.
+66,Norte,Bodega,4,Operaciones,3,2024-11-01,Hace dos meses pedi cambio de turno por situacion de salud de mi mama y me lo negaron. Tuve que faltar y me descontaron.
+67,Norte,Supercenter,8,Admin,8,2024-11-01,Me siento bien aqui. La empresa tiene beneficios que otros no tienen. Quisiera mas opciones de home office para roles administrativos.
+68,Norte,Supercenter,1,Logistica,4,2024-11-01,Los nuevos asociados no reciben suficiente induccion al area de logistica. Eso genera errores y luego culpan al equipo completo.
+69,Norte,Supercenter,5,Operaciones,2,2024-11-01,Tres compañeras de mi area estan de baja por estres. Seguimos trabajando igual o mas. En algun momento tambien voy a caer.
+70,Norte,Express,2,Caja,5,2024-11-01,Mejorar la velocidad del sistema en horas pico. Los lunes y viernes por la tarde se cae constantemente.
+71,Norte,Supercenter,3,Operaciones,1,2024-11-01,Renuncio el mes que viene. Ya lo decidi. No quiero irme pero aqui no hay futuro visible para mi.
+72,Norte,Supercenter,6,Admin,7,2024-11-02,Me gusta la empresa. Sugiero mas comunicacion directa del corporativo a los asociados, no solo a los gerentes.
+73,Norte,Bodega,2,Logistica,3,2024-11-02,Cuando hay merma nos descuentan del bono del equipo aunque el problema viene de problemas en el sistema de conteo. No es justo.
+74,Norte,Supercenter,4,Caja,2,2024-11-02,Me han cambiado de supervisor tres veces en seis meses. Cada uno tiene un estilo diferente y es dificil adaptarse. Necesitamos estabilidad.
+75,Norte,Supercenter,7,Operaciones,1,2024-11-02,Siento que la empresa no me ve como persona sino como un numero de empleado. Eso cansa mucho con el tiempo.
+76,Norte,Express,1,Admin,6,2024-11-02,Buen ambiente. Me gustaria que el programa de referidos tuviera mejor comunicacion porque varios compañeros no lo conocen.
+77,Norte,Supercenter,3,Logistica,3,2024-11-02,El almacen de la tienda esta sobresaturado. Trabajamos entre cajas apiladas y eso es un riesgo de accidente real.
+78,Norte,Supercenter,5,Operaciones,2,2024-11-02,Pedimos reunion con RRHH hace 6 semanas para hablar del clima del equipo. Todavia esperamos la fecha.
+79,Norte,Bodega,8,Logistica,4,2024-11-03,El trabajo es duro pero la empresa da estabilidad. Lo que mejoraría es la cafeteria, muy cara para lo que ganamos.
+80,Norte,Supercenter,2,Caja,5,2024-11-03,Mas personal de seguridad en tienda los fines de semana. Los incidentes con clientes han aumentado.
+81,Norte,Supercenter,4,Operaciones,2,2024-11-03,Nunca nos dicen los resultados de las auditorias de seguridad. Se hacen para cumplir con corporativo pero el equipo no sabe los resultados.
+82,Norte,Express,3,Admin,7,2024-11-03,Muy contenta con las nuevas politicas de maternidad. Eso se siente en el dia a dia.
+83,Norte,Supercenter,6,Logistica,2,2024-11-03,Los líderes nuevos no tienen experiencia en logistica y no lo reconocen. Eso genera errores que pagan los operativos.
+84,Norte,Supercenter,1,Caja,4,2024-11-03,El turno de cierre es muy pesado. Salir a la 1am y volver a las 7am no es sostenible para quien no tiene coche.
+85,Norte,Supercenter,9,Operaciones,1,2024-11-03,He hablado con varios compañeros y todos dicen lo mismo: ya no aguantamos. Alguien en corporativo necesita escuchar esto.
+86,Norte,Bodega,3,Logistica,5,2024-11-04,El equipo de mi turno es muy bueno. Lo que falla es la coordinacion con el turno de la tarde, siempre hay informacion que se pierde.
+87,Norte,Supercenter,2,Admin,8,2024-11-04,Me gusta trabajar aqui. El plan de carrera que me trazaron con mi lider me tiene motivado.
+88,Norte,Supercenter,5,Caja,3,2024-11-04,No hay suficiente capacitacion cuando cambian los procedimientos. Nos enteramos del cambio cuando el cliente ya tiene el problema.
+89,Norte,Express,4,Operaciones,3,2024-11-04,Las horas de comida se reducen en temporada alta sin previo aviso. Eso afecta el rendimiento de la tarde.
+90,Norte,Supercenter,7,Logistica,1,2024-11-04,Me voy a ir. Ya mande mi CV a tres lugares. No es por el sueldo, es por el trato. Me siento invisible aqui.
+91,Norte,Supercenter,2,Operaciones,2,2024-11-04,Reporté un problema de seguridad en el area de carga hace un mes. Nada ha cambiado. Si hay un accidente, la empresa es responsable.
+92,Norte,Bodega,6,Admin,7,2024-11-04,Excelente lider de zona. Sabe escuchar y actua rapido cuando hay un problema. Eso hace la diferencia.
+93,Norte,Supercenter,3,Caja,4,2024-11-04,Me gustaria que la evaluacion de desempeño tuviera retroalimentacion real y no solo un numero. No sé en qué mejorar.
+94,Norte,Supercenter,4,Operaciones,2,2024-11-04,El clima laboral en mi area cambio mucho desde que salio la supervisora anterior. La nueva no conoce el equipo y no se interesa.
+95,Norte,Express,1,Logistica,5,2024-11-04,Buen primer trabajo. La carga es alta pero aprendo mucho. Sugiero mejor senalizacion en el area de recepcion de mercancia.
+96,Norte,Supercenter,8,Admin,9,2024-11-04,Muy satisfecho. Los beneficios de salud son muy buenos comparados con otras empresas donde he trabajado.
+97,Norte,Supercenter,3,Operaciones,2,2024-11-04,Cinco personas de mi equipo de diez han pedido cambio de area o baja voluntaria este trimestre. El problema es el supervisor, no el trabajo.
+98,Norte,Supercenter,5,Caja,3,2024-11-04,La presion por el NPS de caja es muy alta. Nos evaluan por factores que no controlamos como el tiempo de espera que depende de cuantas cajas abren.
+99,Norte,Bodega,2,Logistica,4,2024-11-04,El equipo de montacargas necesita mantenimiento. Trabajar con equipo en mal estado es peligroso y nadie lo reporta porque dicen que no hay presupuesto.
+100,Norte,Supercenter,10,Operaciones,1,2024-11-04,Diez anos aqui. Este es el momento mas dificil. No reconocen la lealtad. Ya no veo razon para quedarme.
+101,Centro,Supercenter,3,Operaciones,7,2024-10-22,El ambiente es bueno en general. Me gustaria mas opciones de comida en el comedor para los turnos de noche.
+102,Centro,Supercenter,2,Caja,6,2024-10-23,Los horarios son estables y mi lider es accesible. Mejoraria la ventilacion en el area de cajas.
+103,Centro,Express,4,Operaciones,8,2024-10-24,Buen lugar para trabajar. El equipo se apoya mutuamente. Solo falta mejor equipo de limpieza.
+104,Centro,Supercenter,1,Logistica,5,2024-10-25,La carga es fuerte pero el pago es justo. Me gustaria mas capacitacion en seguridad.
+105,Centro,Bodega,6,Operaciones,7,2024-10-28,Me siento respetado por mi supervisor. El unico tema es que los uniformes tardan mucho en reponerse.
+106,Centro,Supercenter,3,Admin,8,2024-10-29,Las herramientas administrativas han mejorado mucho este ano. Buen soporte del equipo de TI.
+107,Centro,Supercenter,5,Operaciones,6,2024-10-30,La presion de temporada alta es fuerte pero manejable. Sugiero mas personal temporal en noviembre y diciembre.
+108,Centro,Express,2,Caja,7,2024-10-31,Mi lider de turno se preocupa por nosotros. El area de descanso podria estar mejor equipada.
+109,Centro,Supercenter,4,Logistica,5,2024-11-01,Los procesos de recepcion funcionan bien en general. Falta coordinacion cuando hay cambio de proveedor.
+110,Centro,Bodega,7,Operaciones,6,2024-11-02,La empresa da estabilidad y eso lo valoro. Me gustaria acceso a mas cursos de desarrollo profesional.
+111,Centro,Supercenter,2,Operaciones,7,2024-11-03,El clima del equipo es positivo. Lo unico que cambiaria es el proceso de solicitud de vacaciones, muy lento.
+112,Centro,Supercenter,3,Caja,8,2024-11-04,Contenta con mi trabajo. Las nuevas cajas de autocobro son mas eficientes. Buen cambio.
+113,Centro,Express,1,Admin,9,2024-10-25,Excelente induccion. Me senti bienvenida desde el primer dia. El equipo es muy profesional.
+114,Centro,Supercenter,5,Logistica,6,2024-10-28,Trabajo duro pero las condiciones son aceptables. Sugiero mejorar la senalizacion de seguridad en el almacen.
+115,Centro,Bodega,4,Operaciones,7,2024-10-30,El programa de reconocimiento trimestral es motivador. Me gustaria que incluyera tambien a los asociados nocturnos.

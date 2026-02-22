@@ -1,0 +1,370 @@
+============================
+CHAT #01 | 2024-11-03 17:32 | Domingo
+---
+Cliente: Hola, estoy intentando hacer mi pedido de despensa para la semana pero no me aparece ningun horario de entrega disponible para manana lunes.
+Agente: Buen dia, dejeme verificar. Efectivamente los slots de entrega para lunes ya estan agotados en su zona. Le puedo ofrecer entrega para el martes.
+Cliente: Pero yo necesito mis cosas manana temprano, por eso estoy pidiendo desde hoy domingo. Ya llevo 15 minutos armando mi carrito y me sale esto al final??
+Agente: Entiendo su frustracion. Lamentablemente la disponibilidad se agota rapido los domingos por la noche.
+Cliente: Pues voy a ir al super entonces. Cancelado.
+
+============================
+CHAT #02 | 2024-11-03 18:15 | Domingo
+---
+Cliente: No hay slots de entrega para manana. Llevo 20 minutos eligiendo productos para nada.
+Agente: Disculpe la molestia. Los horarios de entrega para lunes se agotan tipicamente antes de las 5pm del domingo.
+Cliente: Nadie me aviso de eso antes de armar todo mi carrito. Es una perdida de tiempo.
+Agente: Puedo agendar su carrito para martes si gusta.
+Cliente: No gracias, necesito las cosas manana. Me voy a la competencia.
+
+============================
+CHAT #03 | 2024-11-03 19:05 | Domingo
+---
+Cliente: La app se tarda mucho en cargar. Llevo 3 intentos y cada vez se congela cuando quiero ver mis productos.
+Agente: Lamento el inconveniente. Puede intentar cerrar y abrir la app. Los domingos por la noche hay mucho trafico en la plataforma.
+Cliente: Ya lo hice dos veces. Sigue igual de lenta.
+Agente: Le sugiero intentar desde la pagina web en su navegador.
+Cliente: Si la app no funciona bien para que la tienen? Ya mejor voy a la tienda.
+
+============================
+CHAT #04 | 2024-11-03 19:48 | Domingo
+---
+Cliente: Acabo de comparar precios y el aceite de oliva que tengo en mi carrito esta 45 pesos mas caro que en Soriana. Lo mismo el detergente.
+Agente: Nuestros precios pueden variar respecto a la competencia. Tenemos promociones activas en otras categorias.
+Cliente: Pero es mucho mas caro en lo basico. Mejor voy a pedir alla.
+
+============================
+CHAT #05 | 2024-11-03 20:22 | Domingo
+---
+Cliente: Buenas noches. No me deja seleccionar entrega para manana lunes. Solo me ofrece miercoles. Eso es absurdo.
+Agente: Buenas noches. Los horarios de entrega para lunes y martes ya no tienen disponibilidad en su codigo postal.
+Cliente: O sea que pido el domingo pensando en recibir el lunes y no se puede? Entonces cual es el punto?
+Agente: Le ofrezco una disculpa. Le recomiendo hacer su pedido entre semana para tener mas opciones de slots.
+Cliente: Voy a cancelar mi carrito. No tiene sentido.
+
+============================
+CHAT #06 | 2024-11-03 20:55 | Domingo
+---
+Cliente: Me aparece que el costo de envio es de 79 pesos pero en Amazon Fresh es gratis arriba de 500. Mi carrito es de 1800.
+Agente: El costo de envio varia segun la zona y disponibilidad. Para pedidos mayores a 1500 normalmente es de 49 pesos.
+Cliente: Aun asi es mas caro que la competencia. Y encima no hay horarios para manana. Cancelado.
+
+============================
+CHAT #07 | 2024-11-03 21:10 | Domingo
+---
+Cliente: Hola, la pagina se quedo cargando cuando intente agregar el Nescafe al carrito. Ya van 5 minutos y no pasa nada.
+Agente: Disculpe, estamos experimentando alta demanda. Le sugiero refrescar la pagina.
+Cliente: Ya lo intente. Nada. Me rindo.
+
+============================
+CHAT #08 | 2024-11-04 12:30 | Lunes
+---
+Cliente: Hola, quiero saber si tienen entrega para hoy en la tarde.
+Agente: Claro, verifico... Si tenemos disponibilidad hoy de 4pm a 8pm en su zona.
+Cliente: Perfecto, voy a completar mi pedido entonces.
+Agente: Excelente, quedo a sus ordenes.
+
+============================
+CHAT #09 | 2024-11-04 14:15 | Lunes
+---
+Cliente: Compare los precios de cereales y estan como 20% mas caros que en la app de Chedraui.
+Agente: Le informo que manejamos precios competitivos en la mayoria de categorias. Le recomiendo revisar nuestras ofertas semanales.
+Cliente: Revise y en lo que necesito salen mas caros. Voy a comprar alla.
+
+============================
+CHAT #10 | 2024-11-05 19:30 | Martes
+---
+Cliente: No hay horarios de entrega para manana miercoles temprano. Solo a partir de las 6pm.
+Agente: Los horarios de manana por la manana ya fueron reservados. Tenemos disponibilidad por la tarde.
+Cliente: Necesito recibir antes del mediodia. Si no pueden, mejor lo cancelo.
+
+============================
+CHAT #11 | 2024-11-06 10:45 | Miercoles
+---
+Cliente: La app se cerro sola dos veces mientras armaba mi carrito. Perdi todo lo que habia agregado.
+Agente: Lamento el problema tecnico. Su carrito deberia guardarse automaticamente si tiene sesion iniciada.
+Cliente: Pues no se guardo nada. No voy a volver a armar 20 productos de nuevo.
+
+============================
+CHAT #12 | 2024-11-06 16:20 | Miercoles
+---
+Cliente: Vi en el volante que el jabon Zote estaba a 2x1 pero en la app no aparece la promocion.
+Agente: Algunas promociones del volante son exclusivas de tienda fisica. Dejeme verificar... En efecto, esa promocion no aplica en linea.
+Cliente: Eso es publicidad enganosa. Si anuncian algo deberia ser en todos los canales.
+
+============================
+CHAT #13 | 2024-11-07 17:15 | Jueves
+---
+Cliente: No encuentro horarios de entrega disponibles para este viernes. Es la segunda vez esta semana que me pasa.
+Agente: Los slots del viernes estan en alta demanda. Le sugiero reservar con 2 dias de anticipacion.
+Cliente: O sea que tengo que planear con 2 dias de anticipacion para pedir despensa en linea? Mejor voy al super.
+
+============================
+CHAT #14 | 2024-11-07 19:00 | Jueves
+---
+Cliente: El shampoo Pantene esta 35 pesos mas barato en Bodega Aurrera en linea. Y es la misma empresa!
+Agente: Los precios pueden diferir entre plataformas segun el formato de tienda y las promociones vigentes.
+Cliente: Pues voy a pedir en Bodega Aurrera entonces.
+
+============================
+CHAT #15 | 2024-11-08 14:30 | Viernes
+---
+Cliente: Quise pagar con mi tarjeta BBVA y me marca error. Ya intente 3 veces.
+Agente: Puede ser un problema temporal con el procesador de pagos. Le sugiero intentar con otra tarjeta o PayPal.
+Cliente: No tengo otra tarjeta registrada. Si no aceptan BBVA para que la ponen como opcion?
+Agente: Es un error temporal. Le sugiero intentar en 30 minutos.
+Cliente: Ya no. Voy a la tienda.
+
+============================
+CHAT #16 | 2024-11-08 17:45 | Viernes
+---
+Cliente: No me aparecen slots para este sabado. Quiero recibir mi pedido manana.
+Agente: Los horarios de sabado ya estan llenos en su zona. Tenemos disponibilidad para el domingo.
+Cliente: Necesitaba las cosas para una reunion manana. Ya es muy tarde para ir a la tienda. Que frustrante.
+
+============================
+CHAT #17 | 2024-11-09 11:00 | Sabado
+---
+Cliente: Hola, quiero reportar que me cobraron 2 veces el pollo rostizado en mi ultimo pedido.
+Agente: Disculpe el error. Verifico su pedido... Tiene razon, procesamos cargo doble. Le genero un reembolso inmediato.
+Cliente: Ok gracias. Pero esto no deberia pasar.
+
+============================
+CHAT #18 | 2024-11-09 14:20 | Sabado
+---
+Cliente: Los precios de frutas y verduras estan altisimos. Un kilo de aguacate a 120 pesos? En el mercado esta a 70.
+Agente: Los precios de productos frescos reflejan la cadena de frio y garantia de calidad.
+Cliente: Pues no justifica casi el doble. Cancelo mi pedido de frutas.
+
+============================
+CHAT #19 | 2024-11-10 17:05 | Domingo
+---
+Cliente: Otra vez domingo y otra vez sin horarios de entrega para lunes. Esto ya es un patron. Es la tercera semana que me pasa lo mismo.
+Agente: Entiendo su frustracion. La demanda de domingos supera nuestra capacidad de slots para lunes.
+Cliente: Entonces aumenten la capacidad! Siempre pierdo 20 minutos armando el carrito para nada.
+Agente: Tomo nota de su comentario para escalarlo.
+Cliente: Ya lo he escuchado antes. Cancelo.
+
+============================
+CHAT #20 | 2024-11-10 17:40 | Domingo
+---
+Cliente: Seleccione todo mi super de la semana, 14 productos, y al llegar a entrega me dice que no hay disponibilidad hasta el jueves. Estamos a domingo!
+Agente: Lamento la situacion. Los slots para lunes, martes y miercoles en su zona ya se agotaron.
+Cliente: Increible. Ya ni modo, voy a ir fisicamente manana. Pierdo mi tiempo aqui.
+
+============================
+CHAT #21 | 2024-11-10 18:20 | Domingo
+---
+Cliente: La app esta super lenta. No carga las imagenes de los productos y tarda 10 segundos entre cada pagina.
+Agente: Los domingos por la tarde experimentamos alta concurrencia. Le pedimos paciencia.
+Cliente: No voy a esperar 10 segundos por cada pagina para llenar un carrito de 20 cosas. Otra vez sera.
+
+============================
+CHAT #22 | 2024-11-10 18:50 | Domingo
+---
+Cliente: Buenas tardes. Estoy comparando y las galletas Marias estan 12 pesos mas caras que en Amazon. El aceite 1-2-3 tambien sale mas caro. Y la leche Lala.
+Agente: Le informo que nuestros precios se actualizan semanalmente. Puede revisar las ofertas del dia.
+Cliente: Revise todo. En basicos siempre salen mas caros. Me paso a Amazon.
+
+============================
+CHAT #23 | 2024-11-10 19:25 | Domingo
+---
+Cliente: Quiero hacer mi despensa semanal pero no hay entrega para manana. Es ridiculamente frustrante.
+Agente: Los slots de lunes para su zona se agotaron. Tenemos miercoles disponible.
+Cliente: Necesito la comida para manana y pasado manana. Miercoles no me sirve.
+Agente: Como alternativa puede hacer pickup en tienda manana a partir de las 10am.
+Cliente: Si tengo que ir a la tienda de todas formas, para que pido en linea?
+
+============================
+CHAT #24 | 2024-11-10 20:00 | Domingo
+---
+Cliente: Arme un carrito de 2500 pesos, fui a pagar y no hay horarios de entrega disponibles. Me siento estafado de mi tiempo.
+Agente: Entiendo completamente. Lamentablemente la capacidad de entrega del lunes ya se agoto.
+Cliente: Deberian avisar ANTES de que uno arme todo el carrito que no hay entregas. No al final.
+Agente: Es una excelente sugerencia. La registro como mejora.
+Cliente: Sugerencia que nunca implementan. Me voy.
+
+============================
+CHAT #25 | 2024-11-10 20:35 | Domingo
+---
+Cliente: Error al procesar pago. Mi tarjeta de debito Banamex no pasa.
+Agente: Verifico el sistema... Estamos teniendo intermitencia con algunos bancos. Le sugiero intentar con otra forma de pago.
+Cliente: Solo tengo esa tarjeta. Y de paso no hay horarios de entrega para manana. Doble frustracion.
+
+============================
+CHAT #26 | 2024-11-10 21:00 | Domingo
+---
+Cliente: Hola, por que los domingos nunca hay slots de entrega? Entre semana siempre hay pero domingos jamas.
+Agente: Los domingos por la noche es cuando mas personas programan su despensa semanal y los slots se agotan rapido.
+Cliente: Pues es cuando yo tengo tiempo para hacerlo. Si no van a tener capacidad, pongan una lista de espera o algo. Cancelo.
+
+============================
+CHAT #27 | 2024-11-10 21:30 | Domingo
+---
+Cliente: Compare el precio total de mi carrito de 18 productos con Cornershop y alla sale 380 pesos menos. Es mucha diferencia.
+Agente: Nuestros precios incluyen garantia de frescura y amplio surtido.
+Cliente: Alla tambien. Y tienen slots para manana. Adios.
+
+============================
+CHAT #28 | 2024-11-10 21:55 | Domingo
+---
+Cliente: Tercer domingo seguido que intento pedir y no hay entrega para el dia siguiente. Ya es la ultima vez que lo intento.
+Agente: Lamento mucho la experiencia. Estamos trabajando en ampliar la capacidad de entrega.
+Cliente: Llevan meses diciendo eso. Me cambio a otra plataforma definitivamente.
+
+============================
+CHAT #29 | 2024-11-11 08:45 | Lunes
+---
+Cliente: Buenos dias. Quiero hacer un pedido grande de limpieza. Tienen entrega hoy?
+Agente: Buenos dias! Si, tenemos disponibilidad hoy de 2pm a 6pm.
+Cliente: Perfecto, gracias!
+
+============================
+CHAT #30 | 2024-11-11 14:30 | Lunes
+---
+Cliente: Me aparece un cargo de envio de 79 pesos cuando la semana pasada me cobraron 49.
+Agente: El costo de envio puede variar segun el horario y la demanda. En horas pico el cargo puede ser mayor.
+Cliente: Eso no estaba claro al momento de elegir el horario. Me parece deshonesto.
+
+============================
+CHAT #31 | 2024-11-12 15:45 | Martes
+---
+Cliente: No hay slots para hoy ni manana. Necesito panaleles urgente para mi bebe.
+Agente: Verifico... Tenemos disponibilidad para el jueves. O puede optar por pickup en tienda hoy mismo.
+Cliente: El punto de comprar en linea es no tener que ir a la tienda. Si tengo que ir, prefiero ir al Oxxo de la esquina.
+
+============================
+CHAT #32 | 2024-11-12 18:00 | Martes
+---
+Cliente: La app se congelo al momento de aplicar un cupon. Perdi el cupon y mi carrito.
+Agente: Lamento el inconveniente. El cupon deberia seguir activo en su cuenta. Verifico... Si, sigue disponible.
+Cliente: Ok pero mi carrito desaparecio. No voy a armarlo de nuevo.
+
+============================
+CHAT #33 | 2024-11-13 09:30 | Miercoles
+---
+Cliente: Hola, mi pedido llego incompleto. Faltaron 3 productos y me cobraron todo.
+Agente: Le ofrezco una disculpa. Verifico su pedido y proceso el reembolso de los productos faltantes de inmediato.
+Cliente: Gracias pero es la segunda vez que pasa. No da confianza.
+
+============================
+CHAT #34 | 2024-11-13 17:20 | Miercoles
+---
+Cliente: No hay horarios de entrega para manana jueves. Entre semana tampoco hay disponibilidad? Esto ya es demasiado.
+Agente: En su zona los slots de jueves ya se reservaron. Tenemos disponibilidad el viernes a partir de las 4pm.
+Cliente: Viernes a las 4? Cuando llego ya seran las 8. Mejor voy al super manana.
+
+============================
+CHAT #35 | 2024-11-14 10:00 | Jueves
+---
+Cliente: El pollo entero en su app esta a 189 pesos. En Chedraui esta a 149. La diferencia es enorme.
+Agente: Los precios pueden variar. Le recomiendo aprovechar nuestras ofertas en la seccion de Ahorros.
+Cliente: En la seccion de ahorros no hay pollo. Solo galletas y refrescos.
+
+============================
+CHAT #36 | 2024-11-14 13:45 | Jueves
+---
+Cliente: Llevo 5 minutos esperando que cargue la pagina de metodos de pago. Esto es inaceptable.
+Agente: Disculpe, parece un problema de conectividad. Ha intentado con otra red WiFi?
+Cliente: Mi internet funciona perfecto en todas las demas apps. El problema es de ustedes.
+
+============================
+CHAT #37 | 2024-11-14 19:45 | Jueves
+---
+Cliente: Quiero recibir mi pedido manana viernes en la manana pero solo hay horarios de tarde.
+Agente: Los slots de manana ya estan ocupados. Tenemos disponibilidad por la tarde de 4pm a 8pm.
+Cliente: Necesito las cosas para cocinar en la manana. Tarde no me sirve. Voy al super.
+
+============================
+CHAT #38 | 2024-11-15 11:00 | Viernes
+---
+Cliente: Buen dia. Hice un pedido ayer y me mandaron la marca equivocada de leche. Pedi Lala y me mandaron Alpura.
+Agente: Disculpe el error. En ocasiones cuando un producto no esta disponible se sustituye por uno similar.
+Cliente: Deberian preguntar antes de sustituir. Mi hijo solo toma Lala.
+
+============================
+CHAT #39 | 2024-11-15 14:50 | Viernes
+---
+Cliente: Los precios de productos de limpieza estan inflados. El Fabuloso de 2L esta 20 pesos mas caro que en la tienda fisica de Walmart.
+Agente: Los precios en linea pueden diferir de los de tienda fisica por costos operativos.
+Cliente: Es la misma empresa! No deberian cobrar mas por exactamente el mismo producto. Mejor voy a la tienda.
+
+============================
+CHAT #40 | 2024-11-15 18:15 | Viernes
+---
+Cliente: No hay slots de entrega para este sabado. Queria recibir cosas para el fin de semana.
+Agente: Los horarios del sabado ya estan agotados. Tenemos domingo disponible.
+Cliente: Si pido para domingo probablemente tampoco habra slots. Ya lo vivi. Cancelado.
+
+============================
+CHAT #41 | 2024-11-16 09:15 | Sabado
+---
+Cliente: Buenos dias. Quiero comprar para la semana pero los precios estan muy arriba. El kilo de manzana a 68 pesos? En el mercado esta a 35.
+Agente: Nuestros productos frescos cuentan con control de calidad y cadena de frio garantizada.
+Cliente: No justifica el doble de precio. Solo voy a pedir lo que no encuentro en el mercado.
+
+============================
+CHAT #42 | 2024-11-16 13:15 | Sabado
+---
+Cliente: Intente pagar con Mercado Pago y me dio error. Luego intente con tarjeta y tambien fallo.
+Agente: Estamos experimentando intermitencia en el sistema de pagos. Le sugiero intentar en unos minutos.
+Cliente: Ya intente 4 veces en la ultima hora. Me rindo.
+
+============================
+CHAT #43 | 2024-11-16 18:10 | Sabado
+---
+Cliente: No puedo seleccionar entrega para manana domingo. Solo me ofrece martes. Tres dias de espera es demasiado.
+Agente: Los slots de domingo y lunes en su zona ya no tienen disponibilidad.
+Cliente: Cada fin de semana es lo mismo. Nunca hay slots. Cai en cuenta que esta app no sirve para compras de fin de semana.
+
+============================
+CHAT #44 | 2024-11-03 18:30 | Domingo
+---
+Cliente: Hola, quisiera saber por que no hay horarios de entrega para lunes. Soy cliente frecuente y siempre pido los domingos.
+Agente: Los slots para lunes se agotan muy rapido los domingos, generalmente antes de las 4pm.
+Cliente: Entonces tengo que pedir antes de las 4? Nadie me informo de eso. Perdi media hora armando mi carrito.
+Agente: Le sugerimos programar sus pedidos el sabado o domingo temprano para mayor disponibilidad.
+Cliente: Lo voy a intentar la proxima. Hoy cancelo porque necesito las cosas manana.
+
+============================
+CHAT #45 | 2024-11-10 19:50 | Domingo
+---
+Cliente: Es la primera vez que uso la app y me parecio muy complicada. Tarde 10 minutos en encontrar la seccion de lacteos.
+Agente: Lamento la experiencia. Puede usar la barra de busqueda para encontrar productos mas rapido.
+Cliente: La busqueda tampoco funciona bien. Puse "yogurt" y me aparecieron pilas.
+
+============================
+CHAT #46 | 2024-11-10 20:15 | Domingo
+---
+Cliente: Mi carrito de despensa semanal son 1900 pesos y acabo de verificar que en Jokr me sale en 1650 con entrega gratis manana. Por que compraria aqui?
+Agente: Ofrecemos la mayor variedad de productos y promociones exclusivas para clientes Cashi.
+Cliente: Variedad no importa si los precios estan 15% arriba. Adios.
+
+============================
+CHAT #47 | 2024-11-06 20:00 | Miercoles
+---
+Cliente: Buenas noches. Quiero felicitarlos porque mi pedido llego perfecto y a tiempo. Todo fresco.
+Agente: Muchas gracias por su retroalimentacion positiva! Nos alegra saber que tuvo una buena experiencia.
+Cliente: Sigan asi.
+
+============================
+CHAT #48 | 2024-11-10 17:20 | Domingo
+---
+Cliente: No entiendo por que la app no me avisa que no hay slots ANTES de que arme mi carrito. Es lo basico.
+Agente: Es una observacion muy valida. Actualmente la disponibilidad de entrega se muestra en el paso de checkout.
+Cliente: Pues deberia mostrarse desde el inicio. Asi uno sabe si vale la pena armar el pedido o no.
+Agente: Comparto su sugerencia con el equipo de producto.
+Cliente: Mientras tanto cancelo. No hay slots para manana.
+
+============================
+CHAT #49 | 2024-11-11 16:30 | Lunes
+---
+Cliente: Hola, quiero modificar un pedido que hice hace una hora. Quiero agregar 2 productos.
+Agente: Una vez confirmado el pedido ya no es posible modificarlo. Puede hacer un segundo pedido.
+Cliente: Y pagar doble envio? No tiene sentido. Deberian permitir modificar pedidos.
+
+============================
+CHAT #50 | 2024-11-10 21:15 | Domingo
+---
+Cliente: Otra vez no hay entregas para manana lunes. Somos 4 de familia y planificamos la despensa el domingo. Ya estoy harto. Todos los domingos es lo mismo, armo el carrito, llego al final y sorpresa: no hay slots. No voy a volver.
+Agente: Entiendo perfectamente su frustracion y la comparto con nuestro equipo. Estamos trabajando para aumentar la capacidad de entrega en fines de semana.
+Cliente: Llevo 2 meses escuchando lo mismo. Me cambio a otra plataforma. Adios.
